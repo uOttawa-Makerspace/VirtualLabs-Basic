@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CEED-VirtualLabs-Basic",
+"productVersion": "0.2",
+"dataUrl": "30fps.data.unityweb",
+"wasmCodeUrl": "30fps.wasm.code.unityweb",
+"wasmFrameworkUrl": "30fps.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}
